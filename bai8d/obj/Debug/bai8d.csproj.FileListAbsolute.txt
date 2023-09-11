@@ -1,0 +1,8 @@
+C:\Users\nguye\source\repos\bai8d\bai8d\bin\Debug\bai8d.exe.config
+C:\Users\nguye\source\repos\bai8d\bai8d\bin\Debug\bai8d.exe
+C:\Users\nguye\source\repos\bai8d\bai8d\bin\Debug\bai8d.pdb
+C:\Users\nguye\source\repos\bai8d\bai8d\obj\Debug\bai8d.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\bai8d\bai8d\obj\Debug\bai8d.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\source\repos\bai8d\bai8d\obj\Debug\bai8d.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\bai8d\bai8d\obj\Debug\bai8d.exe
+C:\Users\nguye\source\repos\bai8d\bai8d\obj\Debug\bai8d.pdb
